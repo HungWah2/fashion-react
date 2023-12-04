@@ -15,11 +15,7 @@
   background: none;
   color: black;
 }
-input:focus, textarea:focus{
-  outline:none !important;
-  outline-offset: 0 !important;
-  --tw-ring-offset-width:none !important;
-}
+
 
 li:focus-visible{
   outline: none;
